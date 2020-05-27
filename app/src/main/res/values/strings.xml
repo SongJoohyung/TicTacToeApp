@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TicTacToe.java</string>
+    <string name="create_button_label">Create</string>
+    <string name="create_button_label_a11y">Add a player to the Leaderboard</string>
+    <string name="read_button_label">Read</string>
+    <string name="read_button_label_a11y">Re-display the latest Leaderboard</string>
+    <string name="update_button_label">Update</string>
+    <string name="update_button_label_a11y">Edit an existing player\'s record in the Leaderboard</string>
+    <string name="delete_button_label">Delete</string>
+    <string name="delete_button_label_a11y">Remove a player from the Leaderboard</string>
+    <string name="reset_button_label">Reset</string>
+    <string name="reset_button_label_a11y">Reset the current player</string>
+    <string name="leaderboard_button_label">Hi-scores</string>
+    <string name="leaderboard_button_label_a11y">High Score Leaderboard (of all past players on this device)</string>
+    <string name="leaderboard_col1">#</string>
+    <string name="leaderboard_col2">Player</string>
+    <string name="leaderboard_col3">Wins</string>
+    <string name="leaderboard_col4">Draws</string>
+    <string name="leaderboard_col5">Loses</string>
+    <string name="leaderboard_col6">Pts</string>
+</resources>
